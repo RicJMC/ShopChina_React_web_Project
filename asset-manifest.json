@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopChina_React_web_Project/static/css/main.8fd5790e.css",
+    "main.js": "/ShopChina_React_web_Project/static/js/main.b0fd45a6.js",
+    "index.html": "/ShopChina_React_web_Project/index.html",
+    "main.8fd5790e.css.map": "/ShopChina_React_web_Project/static/css/main.8fd5790e.css.map",
+    "main.b0fd45a6.js.map": "/ShopChina_React_web_Project/static/js/main.b0fd45a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd5790e.css",
+    "static/js/main.b0fd45a6.js"
+  ]
+}
